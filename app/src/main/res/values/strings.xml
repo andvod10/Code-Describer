@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Code Describer</string>
+    <string name="title_retrieve">Retrieve</string>
+    <string name="title_create">Create</string>
+    <string name="title_modify">Modify</string>
+    <string name="title_delete">Delete</string>
+    <string name="enter_code_name">Enter Code</string>
+    <string name="enter_description_name">Enter Description</string>
+    <string name="description">Description</string>
+    <string name="code">Code</string>
+    <string name="provide_search_data">Provide search data</string>
+    <string name="title_home">Home</string>
+</resources>
